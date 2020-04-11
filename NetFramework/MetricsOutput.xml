@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CodeMetricsReport Version="1.0">
+  <Targets>
+    <Target Name="NetFramework.csproj">
+      <Assembly Name="NetFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+        <Metrics>
+          <Metric Name="MaintainabilityIndex" Value="73" />
+          <Metric Name="CyclomaticComplexity" Value="8" />
+          <Metric Name="ClassCoupling" Value="2" />
+          <Metric Name="DepthOfInheritance" Value="1" />
+          <Metric Name="SourceLines" Value="58" />
+          <Metric Name="ExecutableLines" Value="13" />
+        </Metrics>
+        <Namespaces>
+          <Namespace Name="NetFramework">
+            <Metrics>
+              <Metric Name="MaintainabilityIndex" Value="73" />
+              <Metric Name="CyclomaticComplexity" Value="8" />
+              <Metric Name="ClassCoupling" Value="2" />
+              <Metric Name="DepthOfInheritance" Value="1" />
+              <Metric Name="SourceLines" Value="58" />
+              <Metric Name="ExecutableLines" Value="13" />
+            </Metrics>
+            <Types>
+              <NamedType Name="NewClass">
+                <Metrics>
+                  <Metric Name="MaintainabilityIndex" Value="72" />
+                  <Metric Name="CyclomaticComplexity" Value="4" />
+                  <Metric Name="ClassCoupling" Value="1" />
+                  <Metric Name="DepthOfInheritance" Value="1" />
+                  <Metric Name="SourceLines" Value="19" />
+                  <Metric Name="ExecutableLines" Value="5" />
+                </Metrics>
+                <Members>
+                  <Method Name="void NewClass.TestConditions(int a)" File="C:\Users\kokor\source\repos\Metrics\NetFramework\NewClass.cs" Line="12">
+                    <Metrics>
+                      <Metric Name="MaintainabilityIndex" Value="72" />
+                      <Metric Name="CyclomaticComplexity" Value="4" />
+                      <Metric Name="ClassCoupling" Value="1" />
+                      <Metric Name="SourceLines" Value="16" />
+                      <Metric Name="ExecutableLines" Value="5" />
+                    </Metrics>
+                  </Method>
+                </Members>
+              </NamedType>
+              <NamedType Name="Program">
+                <Metrics>
+                  <Metric Name="MaintainabilityIndex" Value="74" />
+                  <Metric Name="CyclomaticComplexity" Value="4" />
+                  <Metric Name="ClassCoupling" Value="2" />
+                  <Metric Name="DepthOfInheritance" Value="1" />
+                  <Metric Name="SourceLines" Value="31" />
+                  <Metric Name="ExecutableLines" Value="8" />
+                </Metrics>
+                <Members>
+                  <Method Name="void Program.Main(string[] args)" File="C:\Users\kokor\source\repos\Metrics\NetFramework\Program.cs" Line="12">
+                    <Metrics>
+                      <Metric Name="MaintainabilityIndex" Value="76" />
+                      <Metric Name="CyclomaticComplexity" Value="1" />
+                      <Metric Name="ClassCoupling" Value="2" />
+                      <Metric Name="SourceLines" Value="16" />
+                      <Metric Name="ExecutableLines" Value="4" />
+                    </Metrics>
+                  </Method>
+                  <Method Name="void Program.test()" File="C:\Users\kokor\source\repos\Metrics\NetFramework\Program.cs" Line="29">
+                    <Metrics>
+                      <Metric Name="MaintainabilityIndex" Value="74" />
+                      <Metric Name="CyclomaticComplexity" Value="3" />
+                      <Metric Name="ClassCoupling" Value="1" />
+                      <Metric Name="SourceLines" Value="12" />
+                      <Metric Name="ExecutableLines" Value="4" />
+                    </Metrics>
+                  </Method>
+                </Members>
+              </NamedType>
+            </Types>
+          </Namespace>
+        </Namespaces>
+      </Assembly>
+    </Target>
+  </Targets>
+</CodeMetricsReport>

@@ -1,0 +1,7 @@
+C:\Users\kokor\source\repos\Metrics\NetFramework\bin\Debug\NetFramework.exe.config
+C:\Users\kokor\source\repos\Metrics\NetFramework\bin\Debug\NetFramework.exe
+C:\Users\kokor\source\repos\Metrics\NetFramework\bin\Debug\NetFramework.pdb
+C:\Users\kokor\source\repos\Metrics\NetFramework\obj\Debug\NetFramework.csproj.CoreCompileInputs.cache
+C:\Users\kokor\source\repos\Metrics\NetFramework\obj\Debug\NetFramework.exe
+C:\Users\kokor\source\repos\Metrics\NetFramework\obj\Debug\NetFramework.pdb
+C:\Users\kokor\source\repos\Metrics\NetFramework\obj\Debug\NetFramework.csprojAssemblyReference.cache
