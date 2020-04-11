@@ -1,0 +1,11 @@
+C:\Users\kokor\source\repos\Metrics\NetCoreApp\bin\Debug\netcoreapp2.1\NetCoreApp.deps.json
+C:\Users\kokor\source\repos\Metrics\NetCoreApp\bin\Debug\netcoreapp2.1\NetCoreApp.runtimeconfig.json
+C:\Users\kokor\source\repos\Metrics\NetCoreApp\bin\Debug\netcoreapp2.1\NetCoreApp.runtimeconfig.dev.json
+C:\Users\kokor\source\repos\Metrics\NetCoreApp\bin\Debug\netcoreapp2.1\NetCoreApp.dll
+C:\Users\kokor\source\repos\Metrics\NetCoreApp\bin\Debug\netcoreapp2.1\NetCoreApp.pdb
+C:\Users\kokor\source\repos\Metrics\NetCoreApp\obj\Debug\netcoreapp2.1\NetCoreApp.csprojAssemblyReference.cache
+C:\Users\kokor\source\repos\Metrics\NetCoreApp\obj\Debug\netcoreapp2.1\NetCoreApp.csproj.CoreCompileInputs.cache
+C:\Users\kokor\source\repos\Metrics\NetCoreApp\obj\Debug\netcoreapp2.1\NetCoreApp.AssemblyInfoInputs.cache
+C:\Users\kokor\source\repos\Metrics\NetCoreApp\obj\Debug\netcoreapp2.1\NetCoreApp.AssemblyInfo.cs
+C:\Users\kokor\source\repos\Metrics\NetCoreApp\obj\Debug\netcoreapp2.1\NetCoreApp.dll
+C:\Users\kokor\source\repos\Metrics\NetCoreApp\obj\Debug\netcoreapp2.1\NetCoreApp.pdb
